@@ -1,0 +1,158 @@
+{
+  "visibility": true,
+  "tillNumber": "5204479",
+  "tillName": "Football Highway",
+  "telegramLink": "https://www.sofascore.com/",
+  "plans": [
+    {
+      "name": "FREE TIPS",
+      "ticketNumber": "Ticket 0",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "Free Tips",
+          "amount": "Free",
+          "id": "free_tips",
+          "odds": "Guaranteed Jackpot Bonus Win"
+        }
+      ]
+    },
+    {
+      "name": "GOLDEN DRAW",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "GD 1",
+          "amount": "Ksh 100",
+          "id": "golden_draw_one",
+          "odds": "10"
+        },
+        {
+          "name": "GD 2",
+          "amount": "Ksh 100",
+          "id": "golden_draw_two",
+          "odds": "10"
+        },
+        {
+          "name": "GD 3",
+          "amount": "Ksh 100",
+          "id": "golden_draw_three",
+          "odds": "50"
+        }
+      ]
+    },
+    {
+      "name": "JACKPOT TIPS",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "SportPesa Mega Jackpot",
+          "amount": "Ksh 100",
+          "id": "sportpesa_mega_jackpot",
+          "odds": "244.50"
+        },
+        {
+          "name": "SportPesa Mid Week Jackpot",
+          "amount": "Ksh 100",
+          "id": "sportpesa_mid_week_jackpot",
+          "odds": "244.50"
+        },
+        {
+          "name": "Betika Jackpot",
+          "amount": "Ksh 100",
+          "id": "betika_jackpot",
+          "odds": "244.50"
+        },
+        {
+          "name": "Mozzart Jackpot",
+          "amount": "Ksh 100",
+          "id": "mozzart_jackpot",
+          "odds": "244.50"
+        }
+      ]
+    },
+    {
+      "name": "CORRECT SCORE",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "CS 1",
+          "amount": "Ksh 100",
+          "id": "correct_score_one",
+          "odds": "100"
+        },
+        {
+          "name": "CS 2",
+          "amount": "Ksh 100",
+          "id": "correct_score_two",
+          "odds": "200"
+        },
+        {
+          "name": "CS 3",
+          "amount": "Ksh 100",
+          "id": "correct_score_three",
+          "odds": "400"
+        }
+      ]
+    },
+    {
+      "name": "RUNNING BETS",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "7 Days Running Bets",
+          "amount": "Ksh 100",
+          "id": "seven_days_running_bets",
+          "odds": "100"
+        },
+        {
+          "name": "14 Days Running Bets",
+          "amount": "Ksh 100",
+          "id": "fourteen_days_running_bets",
+          "odds": "200"
+        },
+        {
+          "name": "30 Days Running Bets",
+          "amount": "Ksh 100",
+          "id": "thirty_days_running_bets",
+          "odds": "400"
+        }
+      ]
+    },
+    {
+      "name": "MULTIBETS",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "3+ Odds",
+          "amount": "Ksh 100",
+          "id": "three_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "6+ Odds",
+          "amount": "Ksh 100",
+          "id": "six_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "9+ Odds",
+          "amount": "Ksh 100",
+          "id": "nine_plus_odds",
+          "odds": "100"
+        },
+        {
+          "name": "15+ Odds",
+          "amount": "Ksh 100",
+          "id": "fifteen_plus_odds",
+          "odds": "100"
+        }
+      ]
+    }
+  ]
+}
