@@ -1,7 +1,7 @@
 {
 "predictionResults": [
   {
-      "date": "Friday, 13th October 2023",
+      "date": "19th April 2024",
       "gamesList": [
           {
               "fixture": "Atalanta -  Marseille	",
@@ -10,33 +10,33 @@
               "results": "WIN"
           },
           {
-              "fixture": "Guarulhos U20 VS Flamengo SP U20",
-              "prediction": "CS 0-1",
+              "fixture": "Bayer 04 Leverkusen - Roma",
+              "prediction": "FT X",
               "odds": "4.92",
               "results": "WIN"
           },
           {
-              "fixture": "Uniao Suzano U20 VS Novorizontino U20",
-              "prediction": "HT/FT X/2",
-              "odds": "5.47",
+              "fixture": "Olympiakos - Aston Villa",
+              "prediction": "HT/FT 1/1",
+              "odds": "4.47",
               "results": "WIN"
           },
           {
-              "fixture": "Ittihad Tanger VS Mouloudia Oujda",
-              "prediction": "CS 4.25",
-              "odds": "4.25",
+              "fixture": "Union SG - Antwerp ",
+              "prediction": "CS 1:0",
+              "odds": "5.25",
               "results": "WIN"
           },
           {
-              "fixture": "OFI Creta VS Volos NFC",
+              "fixture": "Silkeborg - Aarhus",
               "prediction": "Under 0.5",
-              "odds": "6.57",
+              "odds": "3.57",
               "results": "WIN"
           }
       ]
   },
   {
-      "date": "Thursday, 12th October 2023",
+      "date": "18th April 2024",
       "gamesList": [
           {
               "fixture": "Chapelton VS Arnett Gardens",
