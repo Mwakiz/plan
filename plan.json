@@ -43,36 +43,130 @@
       ]
     },
     {
-      "name": "JACKPOT TIPS",
+      "name": "SPORTPESA MEGA JACKPOT",
       "ticketNumber": "Ticket 4",
       "ticketDate": "Tuesday, 12th February 2024",
       "productsList": [
         {
-          "name": "SportPesa Mega Jackpot",
-          "amount": "Ksh 100",
-          "id": "sportpesa_mega_jackpot",
+          "name": "OPTION 1",
+          "amount": "Ksh 150",
+          "id": "sportpesa_mega_1",
           "odds": "244.50"
         },
         {
-          "name": "SportPesa Mid Week Jackpot",
-          "amount": "Ksh 100",
-          "id": "sportpesa_mid_week_jackpot",
+          "name": "OPTION 2",
+          "amount": "Ksh 300",
+          "id": "sportpesa_mega_2",
           "odds": "244.50"
         },
         {
-          "name": "Betika Jackpot",
-          "amount": "Ksh 100",
-          "id": "betika_jackpot",
+          "name": "OPTION 3",
+          "amount": "Ksh 500",
+          "id": "sportpesa_mega_3",
           "odds": "244.50"
         },
         {
-          "name": "Mozzart Jackpot",
-          "amount": "Ksh 100",
-          "id": "mozzart_jackpot",
+          "name": "OPTION 4",
+          "amount": "Ksh 700",
+          "id": "sportpesa_mega_4",
           "odds": "244.50"
         }
       ]
     },
+    {
+      "name": "SPORTPESA MID-WEEK JACKPOT",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "OPTION 1",
+          "amount": "Ksh 150",
+          "id": "sportpesa_mid_1",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 2",
+          "amount": "Ksh 300",
+          "id": "sportpesa_mid_2",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 3",
+          "amount": "Ksh 500",
+          "id": "sportpesa_mid_3",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 4",
+          "amount": "Ksh 700",
+          "id": "sportpesa_mid_4",
+          "odds": "244.50"
+        }
+      ]
+    },
+    {
+      "name": "BETIKA JACKPOT",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "OPTION 1",
+          "amount": "Ksh 150",
+          "id": "betika_1",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 2",
+          "amount": "Ksh 300",
+          "id": "betika_2",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 3",
+          "amount": "Ksh 500",
+          "id": "betika_3",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 4",
+          "amount": "Ksh 700",
+          "id": "betika_4",
+          "odds": "244.50"
+        }
+      ]
+    },
+    {
+      "name": "MOZZART JACKPOT",
+      "ticketNumber": "Ticket 4",
+      "ticketDate": "Tuesday, 12th February 2024",
+      "productsList": [
+        {
+          "name": "OPTION 1",
+          "amount": "Ksh 150",
+          "id": "mozzart_1",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 2",
+          "amount": "Ksh 300",
+          "id": "mozzart_2",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 3",
+          "amount": "Ksh 500",
+          "id": "mozzart_3",
+          "odds": "244.50"
+        },
+        {
+          "name": "OPTION 4",
+          "amount": "Ksh 700",
+          "id": "mozzart_4",
+          "odds": "244.50"
+        }
+      ]
+    },
+    
     {
       "name": "CORRECT SCORE",
       "ticketNumber": "Ticket 4",
