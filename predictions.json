@@ -72,7 +72,7 @@
       "date": "13/02/2024"
     }
   ],
-  "sportpesa_mega_jackpot": [
+  "sportpesa_mega_1": [
     {
       "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
       "prediction": "Over 3.5",
@@ -84,7 +84,7 @@
       "date": "10/10/2022"
     }
   ],
-  "sportpesa_mid_week_jackpot": [
+  "sportpesa_mega_2": [
     {
       "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
       "prediction": "Over 3.5",
@@ -96,7 +96,7 @@
       "date": "10/10/2022"
     }
   ],
-  "betika_jackpot": [
+  "sportpesa_mega_3": [
     {
       "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
       "prediction": "Over 3.5",
@@ -108,7 +108,151 @@
       "date": "10/10/2022"
     }
   ],
-  "mozzart_jackpot": [
+  "sportpesa_mega_4": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "sportpesa_mid_1": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "sportpesa_mid_2": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "sportpesa_mid_3": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "sportpesa_mid_4": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "mozzart_1": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "mozzart_2": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "mozzart_3": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "mozzart_4": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "betika_1": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "betika_2": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "betika_3": [
+    {
+      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
+      "prediction": "Over 3.5",
+      "date": "21/10/2022"
+    },
+    {
+      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
+      "prediction": "Home Win",
+      "date": "10/10/2022"
+    }
+  ],
+  "betika_4": [
     {
       "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
       "prediction": "Over 3.5",
