@@ -23,22 +23,22 @@
       "ticketDate": "Tuesday, 12th February 2024",
       "productsList": [
         {
-          "name": "GD 1",
-          "amount": "Ksh 100",
+          "name": "DRAW 1",
+          "amount": "Ksh 250",
           "id": "golden_draw_one",
-          "odds": "10"
+          "odds": "3.12"
         },
         {
-          "name": "GD 2",
-          "amount": "Ksh 100",
+          "name": "DRAW 2",
+          "amount": "Ksh 250",
           "id": "golden_draw_two",
-          "odds": "10"
+          "odds": "3.45"
         },
         {
-          "name": "GD 3",
-          "amount": "Ksh 100",
+          "name": "DRAW 3",
+          "amount": "Ksh 250",
           "id": "golden_draw_three",
-          "odds": "50"
+          "odds": "3.15"
         }
       ]
     },
