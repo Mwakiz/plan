@@ -1,293 +1,109 @@
 {
-  "free_tips": [
-    {
-      "fixture": "Birmingham – Blackburn",
-      "prediction": "2",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "RB Leipzig – Real Madrid",
-      "prediction": "1",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "El Ittihad Alexandria – Talaea El Gaish",
-      "prediction": "1",
-      "date": "14/02/2024"
-    },
-    {
-      "fixture": "Arab Contractors – Enppi Club",
-      "prediction": "1",
-      "date": "14/02/2024"
-    }
-  ],
-  "golden_draw_one": [
-    {
-      "fixture": "RB Leipzig-:-Real Madrid",
-      "prediction": "GG & Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Copenhagen-:-Manchester City",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Gil Vicente-:-Vizela",
-      "prediction": "Under 2.5",
-      "date": "13/02/2024"
-    }
-  ],
-  "golden_draw_two": [
-    {
-      "fixture": "RB Leipzig-:-Real Madrid",
-      "prediction": "GG & Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Copenhagen-:-Manchester City",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Gil Vicente-:-Vizela",
-      "prediction": "Under 2.5",
-      "date": "13/02/2024"
-    }
-  ],
-  "golden_draw_three": [
-    {
-      "fixture": "RB Leipzig-:-Real Madrid",
-      "prediction": "GG & Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Copenhagen-:-Manchester City",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Gil Vicente-:-Vizela",
-      "prediction": "Under 2.5",
-      "date": "13/02/2024"
-    }
-  ],
-  "sportpesa_mega_jackpot": [
-    {
-      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
-      "prediction": "Over 3.5",
-      "date": "21/10/2022"
-    },
-    {
-      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
-      "prediction": "Home Win",
-      "date": "10/10/2022"
-    }
-  ],
-  "sportpesa_mid_week_jackpot": [
-    {
-      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
-      "prediction": "Over 3.5",
-      "date": "21/10/2022"
-    },
-    {
-      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
-      "prediction": "Home Win",
-      "date": "10/10/2022"
-    }
-  ],
-  "betika_jackpot": [
-    {
-      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
-      "prediction": "Over 3.5",
-      "date": "21/10/2022"
-    },
-    {
-      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
-      "prediction": "Home Win",
-      "date": "10/10/2022"
-    }
-  ],
-  "mozzart_jackpot": [
-    {
-      "fixture": "Ludogorets Razgrad- : -Lokomotiv Sofia",
-      "prediction": "Over 3.5",
-      "date": "21/10/2022"
-    },
-    {
-      "fixture": "GKS Piast Gliwice Vs Widzew Lodz",
-      "prediction": "Home Win",
-      "date": "10/10/2022"
-    }
-  ],
-  "correct_score_one": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "correct_score_two": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "correct_score_three": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "seven_days_running_bets": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "fourteen_days_running_bets": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "thirty_days_running_bets": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "three_plus_odds": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "six_plus_odds": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "nine_plus_odds": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ],
-  "fifteen_plus_odds": [
-    {
-      "fixture": "Birmingham-:-Blackburn Rovers",
-      "prediction": "X",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Norwich-:-Watford",
-      "prediction": "Over 2.5",
-      "date": "13/02/2024"
-    },
-    {
-      "fixture": "Swansea-:-Leeds United",
-      "prediction": "Away Win",
-      "date": "13/02/2024"
-    }
-  ]
+"predictionResults": [
+  {
+      "date": "Friday, 13th October 2023",
+      "gamesList": [
+          {
+              "fixture": "APOEL FC VS Olympiakos Nic.",
+              "prediction": "HT/FT 1/1",
+              "odds": "6.22",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Guarulhos U20 VS Flamengo SP U20",
+              "prediction": "CS 0-1",
+              "odds": "4.92",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Uniao Suzano U20 VS Novorizontino U20",
+              "prediction": "HT/FT X/2",
+              "odds": "5.47",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Ittihad Tanger VS Mouloudia Oujda",
+              "prediction": "CS 4.25",
+              "odds": "4.25",
+              "results": "WIN"
+          },
+          {
+              "fixture": "OFI Creta VS Volos NFC",
+              "prediction": "Under 0.5",
+              "odds": "6.57",
+              "results": "WIN"
+          }
+      ]
+  },
+  {
+      "date": "Thursday, 12th October 2023",
+      "gamesList": [
+          {
+              "fixture": "Chapelton VS Arnett Gardens",
+              "prediction": "No GG & Over 4.5",
+              "odds": "7.04",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Wellington Phoenix W VS WS Wanderers W",
+              "prediction": "Darw",
+              "odds": "3.45",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Wellington Phoenix VS Melbourne City",
+              "prediction": "HT/FT X/2",
+              "odds": "4.29",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Adelaide United VS Perth Glory",
+              "prediction": "CS 4.25",
+              "odds": "4.25",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Al Qaisoma VS Al Akhdood",
+              "prediction": "GG & Draw",
+              "odds": "3.97",
+              "results": "WIN"
+          }
+      ]
+  },
+  {
+      "date": "Wednesday, 11th May 2023",
+      "gamesList": [
+          {
+              "fixture": "CD Huarte VS CD Ardoi",
+              "prediction": "Under 0.5",
+              "odds": "6.35",
+              "results": "WIN"
+          },
+          {
+              "fixture": "FC Penafiel VS SC Farense",
+              "prediction": "CS 0-2",
+              "odds": "6.04",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Univ de Chile VS Cobresal",
+              "prediction": "Over 6.5",
+              "odds": "4.66",
+              "results": "WIN"
+          },
+          {
+              "fixture": "CO Korhogo VS SOL FC",
+              "prediction": "Fixed Draw",
+              "odds": "3.45",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Ingolstadt II VS Schwaben Augsburg",
+              "prediction": "GG & Over 4.5",
+              "odds": "5.37",
+              "results": "WIN"
+          }
+      ]
+  }
+]
 }
