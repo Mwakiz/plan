@@ -30,15 +30,15 @@
         },
         {
           "name": "DRAW 2",
-          "amount": "Ksh 250",
+          "amount": "Ksh 550",
           "id": "golden_draw_two",
-          "odds": "3.45"
+          "odds": "9.45"
         },
         {
           "name": "DRAW 3",
-          "amount": "Ksh 250",
+          "amount": "Ksh 1450",
           "id": "golden_draw_three",
-          "odds": "3.15"
+          "odds": "21.15"
         }
       ]
     },
@@ -51,25 +51,25 @@
           "name": "OPTION 1",
           "amount": "Ksh 150",
           "id": "sportpesa_mega_1",
-          "odds": "244.50"
+          "odds": "17/17"
         },
         {
           "name": "OPTION 2",
           "amount": "Ksh 300",
           "id": "sportpesa_mega_2",
-          "odds": "244.50"
+          "odds": "17/17"
         },
         {
           "name": "OPTION 3",
           "amount": "Ksh 500",
           "id": "sportpesa_mega_3",
-          "odds": "244.50"
+          "odds": "17/17"
         },
         {
           "name": "OPTION 4",
           "amount": "Ksh 700",
           "id": "sportpesa_mega_4",
-          "odds": "244.50"
+          "odds": "17/17"
         }
       ]
     },
@@ -82,25 +82,25 @@
           "name": "OPTION 1",
           "amount": "Ksh 150",
           "id": "sportpesa_mid_1",
-          "odds": "244.50"
+          "odds": "13/13"
         },
         {
           "name": "OPTION 2",
           "amount": "Ksh 300",
           "id": "sportpesa_mid_2",
-          "odds": "244.50"
+          "odds": "13/13"
         },
         {
           "name": "OPTION 3",
           "amount": "Ksh 500",
           "id": "sportpesa_mid_3",
-          "odds": "244.50"
+          "odds": "13/13"
         },
         {
           "name": "OPTION 4",
           "amount": "Ksh 700",
           "id": "sportpesa_mid_4",
-          "odds": "244.50"
+          "odds": "13/13"
         }
       ]
     },
@@ -113,25 +113,25 @@
           "name": "OPTION 1",
           "amount": "Ksh 150",
           "id": "betika_1",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 2",
           "amount": "Ksh 300",
           "id": "betika_2",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 3",
           "amount": "Ksh 500",
           "id": "betika_3",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 4",
           "amount": "Ksh 700",
           "id": "betika_4",
-          "odds": "244.50"
+          "odds": "Bonus"
         }
       ]
     },
@@ -144,25 +144,25 @@
           "name": "OPTION 1",
           "amount": "Ksh 150",
           "id": "mozzart_1",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 2",
           "amount": "Ksh 300",
           "id": "mozzart_2",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 3",
           "amount": "Ksh 500",
           "id": "mozzart_3",
-          "odds": "244.50"
+          "odds": "Bonus"
         },
         {
           "name": "OPTION 4",
           "amount": "Ksh 700",
           "id": "mozzart_4",
-          "odds": "244.50"
+          "odds": "Bonus"
         }
       ]
     },
@@ -176,19 +176,19 @@
           "name": "CS 1",
           "amount": "Ksh 100",
           "id": "correct_score_one",
-          "odds": "100"
+          "odds": "10"
         },
         {
           "name": "CS 2",
           "amount": "Ksh 100",
           "id": "correct_score_two",
-          "odds": "200"
+          "odds": "8"
         },
         {
           "name": "CS 3",
           "amount": "Ksh 100",
           "id": "correct_score_three",
-          "odds": "400"
+          "odds": "9"
         }
       ]
     },
@@ -201,19 +201,19 @@
           "name": "7 Days Running Bets",
           "amount": "Ksh 100",
           "id": "seven_days_running_bets",
-          "odds": "100"
+          "odds": "1212"
         },
         {
           "name": "14 Days Running Bets",
           "amount": "Ksh 100",
           "id": "fourteen_days_running_bets",
-          "odds": "200"
+          "odds": "234"
         },
         {
           "name": "30 Days Running Bets",
           "amount": "Ksh 100",
           "id": "thirty_days_running_bets",
-          "odds": "400"
+          "odds": "2345"
         }
       ]
     },
@@ -226,25 +226,25 @@
           "name": "3+ Odds",
           "amount": "Ksh 100",
           "id": "three_plus_odds",
-          "odds": "100"
+          "odds": "5+"
         },
         {
           "name": "6+ Odds",
           "amount": "Ksh 100",
           "id": "six_plus_odds",
-          "odds": "100"
+          "odds": "9+"
         },
         {
           "name": "9+ Odds",
           "amount": "Ksh 100",
           "id": "nine_plus_odds",
-          "odds": "100"
+          "odds": "15+"
         },
         {
           "name": "15+ Odds",
           "amount": "Ksh 100",
           "id": "fifteen_plus_odds",
-          "odds": "100"
+          "odds": "20+"
         }
       ]
     }
