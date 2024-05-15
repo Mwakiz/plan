@@ -174,21 +174,21 @@
       "productsList": [
         {
           "name": "CS 1",
-          "amount": "Ksh 100",
+          "amount": "Ksh 350",
           "id": "correct_score_one",
-          "odds": "10"
+          "odds": "9+"
         },
         {
           "name": "CS 2",
-          "amount": "Ksh 100",
+          "amount": "Ksh 700",
           "id": "correct_score_two",
-          "odds": "8"
+          "odds": "20+"
         },
         {
           "name": "CS 3",
-          "amount": "Ksh 100",
+          "amount": "Ksh 1500",
           "id": "correct_score_three",
-          "odds": "9"
+          "odds": "50+"
         }
       ]
     },
@@ -199,19 +199,19 @@
       "productsList": [
         {
           "name": "7 Days Running Bets",
-          "amount": "Ksh 100",
+          "amount": "Ksh 200",
           "id": "seven_days_running_bets",
           "odds": "1212"
         },
         {
           "name": "14 Days Running Bets",
-          "amount": "Ksh 100",
+          "amount": "Ksh 250",
           "id": "fourteen_days_running_bets",
           "odds": "234"
         },
         {
           "name": "30 Days Running Bets",
-          "amount": "Ksh 100",
+          "amount": "Ksh 500",
           "id": "thirty_days_running_bets",
           "odds": "2345"
         }
@@ -230,19 +230,19 @@
         },
         {
           "name": "6+ Odds",
-          "amount": "Ksh 100",
+          "amount": "Ksh 160",
           "id": "six_plus_odds",
           "odds": "9+"
         },
         {
-          "name": "9+ Odds",
+          "name": "10+ Odds",
           "amount": "Ksh 100",
           "id": "nine_plus_odds",
           "odds": "15+"
         },
         {
-          "name": "15+ Odds",
-          "amount": "Ksh 100",
+          "name": "20+ Odds",
+          "amount": "Ksh 450",
           "id": "fifteen_plus_odds",
           "odds": "20+"
         }
