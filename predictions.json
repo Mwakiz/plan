@@ -1,40 +1,40 @@
 {
   "free_tips": [
     {
-      "fixture": "Al Hilal VS Al Taee",
+      "fixture": "Manchester City VS Manchester Utd",
       "prediction": "1",
-      "date": "23/05/2024"
+      "date": "25/05/2024"
     },
     {
       "fixture": "Al Riyadh VS Al Nassr",
-      "prediction": "GG",
-      "date": "23/05/2024"
+      "prediction": "1",
+      "date": "25/05/2024"
     },
     {
-      "fixture": "Zamalek VS Future FC",
-      "prediction": "FT X",
-      "date": "23/05/2024"
+      "fixture": "Kaiserslautern VS Bayer Leverkusen",
+      "prediction": "2",
+      "date": "25/05/2024"
     },
     {
-      "fixture": "Nijmegen VS G.A. Eagles",
-      "prediction": "GG",
-      "date": "23/05/2024"
+      "fixture": "Zenit VS FK Rostov",
+      "prediction": "1",
+      "date": "25/05/2024"
     }
   ],
   "golden_draw_one": [
     {
-      "fixture": "Bamako v Binga",
-      "prediction": "FT X",
+      "fixture": "Real Madrid VS Betis",
+      "prediction": "1",
       "date": "23/05/2024"
     },
     {
-      "fixture": "East Riffa V Malkiya",
-      "prediction": "FT X",
+      "fixture": "AC Milan VS Salernitana",
+      "prediction": "1",
       "date": "23/05/2024"
     },
     {
-      "fixture": "Gil Vicente-:-Vizela",
-      "prediction": "Under 2.5",
+      "fixture": "Juventus VS Monza",
+      "prediction": "1",
       "date": "13/02/2024"
     }
   ],
