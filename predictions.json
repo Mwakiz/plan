@@ -1,24 +1,24 @@
 {
   "free_tips": [
     {
-      "fixture": "Malmo FF VS Elfsborg",
+      "fixture": "Bodo/Glimt VS Sandefjord",
       "prediction": "1",
-      "date": "28/05/2024"
+      "date": "29/05/2024"
     },
     {
-      "fixture": "Wydad VS Olympique de Safi",
-      "prediction": "1",
-      "date": "28/05/2024"
-    },
-    {
-      "fixture": "Al Arabi VS Al Bukayriyah",
-      "prediction": "1",
-      "date": "28/05/2024"
-    },
-    {
-      "fixture": "IR Tanger VS Raja Casablanca",
+      "fixture": "Metta VS RFS",
       "prediction": "2",
-      "date": "28/05/2024"
+      "date": "29/05/2024"
+    },
+    {
+      "fixture": "Riga FC VS Tukums 2000",
+      "prediction": "1",
+      "date": "29/05/2024"
+    },
+    {
+      "fixture": "Paide VS Levadia",
+      "prediction": "2",
+      "date": "29/05/2024"
     }
   ],
   "golden_draw_one": [
