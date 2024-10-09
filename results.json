@@ -1,34 +1,34 @@
 {
 "predictionResults": [
   {
-      "date": "Friday, 24th May 2024",
+      "date": "8th Octomber 2024",
       "gamesList": [
           {
-              "fixture": "Genoa Vs Bologna",
-              "prediction": "1",
-              "odds": "3.22",
+              "fixture": "Carlisle VS Wigan",
+              "prediction": "2",
+              "odds": "1.45",
               "results": "WIN"
           },
           {
-              "fixture": "Girona Vs Granada",
-              "prediction": "Ov4.4",
-              "odds": "5.92",
+              "fixture": "Shrewsbury VS Birmingham",
+              "prediction": "Ov3.5",
+              "odds": "2.92",
               "results": "WIN"
           },
           {
-              "fixture": "Regensburg Vs Wehen",
+              "fixture": "Altrincham VS Blackburn U21",
               "prediction": "FT X",
-              "odds": "5.47",
+              "odds": "3.47",
               "results": "WIN"
           },
           {
-              "fixture": "Etienne Vs Rodez",
-              "prediction": "1",
+              "fixture": "Tamworth VS Gateshead",
+              "prediction": "GG",
               "odds": "2.25",
               "results": "WIN"
           },
           {
-              "fixture": "Alanyaspor Vs Antalyaspor",
+              "fixture": "Falkirk Vs LivingstonIF",
               "prediction": "FT X",
               "odds": "5.57",
               "results": "WIN"
@@ -36,34 +36,34 @@
       ]
   },
   {
-      "date": "Thursday, 23rd May 2024",
+      "date": "7th October, 2024",
       "gamesList": [
           {
-              "fixture": "Bochum Vs Dusseldrf",
+              "fixture": "Start 11 Vs Vigor",
+              "prediction": "1",
+              "odds": "1.56",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Claypole Vs Lujan",
+              "prediction": "X",
+              "odds": "4.45",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Atlas Vs Real Pilar",
               "prediction": "2",
-              "odds": "2.04",
+              "odds": "2.29",
               "results": "WIN"
           },
           {
-              "fixture": "Cagliari Vs Fiorentina",
-              "prediction": "2",
-              "odds": "2.45",
+              "fixture": "Crotone Vs Avellino",
+              "prediction": "2 & Ov3.5",
+              "odds": "5.25",
               "results": "WIN"
           },
           {
-              "fixture": "Breda Vs Go Ahead Eagles",
-              "prediction": "2",
-              "odds": "3.29",
-              "results": "WIN"
-          },
-          {
-              "fixture": "East Riffa Vs Malkiya",
-              "prediction": "FT X",
-              "odds": "4.25",
-              "results": "WIN"
-          },
-          {
-              "fixture": "The Strongest Vs Guabira",
+              "fixture": "Bradford Vs Newport",
               "prediction": "GG & Ov3.5",
               "odds": "7.97",
               "results": "WIN"
@@ -71,34 +71,34 @@
       ]
   },
   {
-      "date": "Wednesday, 22nd May 2024",
+      "date": "6th October, 2024",
       "gamesList": [
           {
-              "fixture": "Atalanta Vs Leverkusen",
-              "prediction": "1",
+              "fixture": "Emelec Vs Aucas",
+              "prediction": "FT X",
               "odds": "3.35",
               "results": "WIN"
           },
           {
-              "fixture": "Ilves V Inter Turku",
+              "fixture": "Porto Vs Braga ",
               "prediction": "1",
-              "odds": "2.04",
+              "odds": "1.55",
               "results": "WIN"
           },
           {
-              "fixture": "Dudenhofen V Pirmasens",
-              "prediction": "GG & Ov3.5",
-              "odds": "8.66",
+              "fixture": "Albacete Vs Cordoba",
+              "prediction": "GG",
+              "odds": "1.66",
               "results": "WIN"
           },
           {
-              "fixture": "Dreams Vs Legon Cities",
+              "fixture": "Forentina Vs Milan",
               "prediction": "1",
-              "odds": "2.45",
+              "odds": "1.99",
               "results": "WIN"
           },
           {
-              "fixture": "Eastern Vs HKFC",
+              "fixture": "FCSB Vs Gloria Bazau",
               "prediction": "Over 4.5",
               "odds": "4.37",
               "results": "WIN"
