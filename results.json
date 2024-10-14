@@ -4,34 +4,34 @@
       "date": "13th Octomber 2024",
       "gamesList": [
           {
-              "fixture": "XXX VS XXX",
+              "fixture": "Greece Vs Ireland",
               "prediction": "1",
               "odds": "1.78",
-              "results": "?"
+              "results": "WIN"
           },
           {
-              "fixture": "XXX Vs XXX",
-              "prediction": "Ov3.5",
+              "fixture": "Austria Vs Norway",
+              "prediction": "Over2.5",
               "odds": "2.12",
-              "results": "?"
+              "results": "WIN"
           },
           {
-              "fixture": "XXX Vs XXX",
+              "fixture": "Nations Vs Gold Stars",
               "prediction": "FT X",
               "odds": "4.47",
-              "results": "?"
+              "results": "WIN"
           },
           {
-              "fixture": "XXXX Vs XXX",
+              "fixture": "Huachipato Vs Colo Colo",
               "prediction": "GG",
               "odds": "2.22",
-              "results": "?"
+              "results": "WIN"
           },
           {
-              "fixture": "XXX Vs XXX",
+              "fixture": "Kavala Vs Niki Volos",
               "prediction": "FT X",
               "odds": "3.57",
-              "results": "?"
+              "results": "WIN"
           }
       ]
   },
