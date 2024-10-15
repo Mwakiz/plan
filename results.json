@@ -1,6 +1,41 @@
 {
 "predictionResults": [
   {
+      "date": "14th Octomber 2024",
+      "gamesList": [
+          {
+              "fixture": "Ukraine Vs Czech Rep",
+              "prediction": "GG",
+              "odds": "1.89",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Italy Vs Israel",
+              "prediction": "Over3.5",
+              "odds": "2.89",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Atlanta Vs Depor Madryn",
+              "prediction": "FT X",
+              "odds": "3.22",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Liberia Vs Eq. Guinea",
+              "prediction": "GG",
+              "odds": "1.65",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Romania U20 Vs Swiss U20",
+              "prediction": "FT X",
+              "odds": "3.22",
+              "results": "WIN"
+          }
+      ]
+  },
+  {
       "date": "13th Octomber 2024",
       "gamesList": [
           {
