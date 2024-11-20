@@ -1,36 +1,30 @@
 {
 "predictionResults": [
   {
-      "date": "Friday, 24th May 2024",
+      "date": "Tuesday, 19th Nov 2024",
       "gamesList": [
           {
-              "fixture": "Genoa Vs Bologna",
+              "fixture": "Montenegro VS Turkey",
               "prediction": "1",
-              "odds": "3.22",
+              "odds": "4.22",
               "results": "WIN"
           },
           {
-              "fixture": "Girona Vs Granada",
+              "fixture": "Sweden VS Azerbaijan",
               "prediction": "Ov4.4",
-              "odds": "5.92",
+              "odds": "3.92",
               "results": "WIN"
           },
           {
-              "fixture": "Regensburg Vs Wehen",
+              "fixture": "Hungary VS Germany",
               "prediction": "FT X",
-              "odds": "5.47",
+              "odds": "4.47",
               "results": "WIN"
           },
           {
-              "fixture": "Etienne Vs Rodez",
+              "fixture": "Tanzania VS Guinea",
               "prediction": "1",
               "odds": "2.25",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Alanyaspor Vs Antalyaspor",
-              "prediction": "FT X",
-              "odds": "5.57",
               "results": "WIN"
           }
       ]
