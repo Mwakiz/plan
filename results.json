@@ -1,38 +1,32 @@
 {
 "predictionResults": [
   {
-      "date": "14th Octomber 2024",
+      "date": "20th November 2024",
       "gamesList": [
           {
-              "fixture": "Ukraine Vs Czech Rep",
+              "fixture": "Montenegro VS Turkey",
               "prediction": "GG",
+              "odds": "1.67",
+              "results": "WIN"
+          },
+          {
+              "fixture": "Sweden VS Azerbaijan",
+              "prediction": "Over3.5",
               "odds": "1.89",
               "results": "WIN"
           },
           {
-              "fixture": "Italy Vs Israel",
-              "prediction": "Over3.5",
-              "odds": "2.89",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Atlanta Vs Depor Madryn",
+              "fixture": "Hungary VS Germany",
               "prediction": "FT X",
-              "odds": "3.22",
+              "odds": "4.22",
               "results": "WIN"
           },
           {
-              "fixture": "Liberia Vs Eq. Guinea",
+              "fixture": "Kuwait VS Jordan",
               "prediction": "GG",
               "odds": "1.65",
               "results": "WIN"
-          },
-          {
-              "fixture": "Romania U20 Vs Swiss U20",
-              "prediction": "FT X",
-              "odds": "3.22",
-              "results": "WIN"
-          }
+          },        
       ]
   },
   {
