@@ -1,133 +1,69 @@
 {
 "predictionResults": [
   {
-      "date": "20th November 2024",
+      "date": "Friday, 24th May 2024",
       "gamesList": [
           {
-              "fixture": "Montenegro VS Turkey",
-              "prediction": "GG",
-              "odds": "1.67",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Sweden VS Azerbaijan",
-              "prediction": "Over3.5",
-              "odds": "1.89",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Hungary VS Germany",
-              "prediction": "FT X",
-              "odds": "4.22",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Kuwait VS Jordan",
-              "prediction": "GG",
-              "odds": "1.65",
-              "results": "WIN"
-          },        
-      ]
-  },
-  {
-      "date": "13th Octomber 2024",
-      "gamesList": [
-          {
-              "fixture": "Greece Vs Ireland",
+              "fixture": "Genoa Vs Bologna",
               "prediction": "1",
-              "odds": "1.78",
+              "odds": "3.22",
               "results": "WIN"
           },
           {
-              "fixture": "Austria Vs Norway",
-              "prediction": "Over2.5",
-              "odds": "2.12",
+              "fixture": "Girona Vs Granada",
+              "prediction": "Ov4.4",
+              "odds": "5.92",
               "results": "WIN"
           },
           {
-              "fixture": "Nations Vs Gold Stars",
+              "fixture": "Regensburg Vs Wehen",
               "prediction": "FT X",
-              "odds": "4.47",
+              "odds": "5.47",
               "results": "WIN"
           },
           {
-              "fixture": "Huachipato Vs Colo Colo",
-              "prediction": "GG",
-              "odds": "2.22",
+              "fixture": "Etienne Vs Rodez",
+              "prediction": "1",
+              "odds": "2.25",
               "results": "WIN"
           },
           {
-              "fixture": "Kavala Vs Niki Volos",
+              "fixture": "Alanyaspor Vs Antalyaspor",
               "prediction": "FT X",
-              "odds": "3.57",
+              "odds": "5.57",
               "results": "WIN"
           }
       ]
   },
   {
-      "date": "12th Octomber 2024",
+      "date": "Thursday, 23rd May 2024",
       "gamesList": [
           {
-              "fixture": "Croatia VS Scotland",
-              "prediction": "1",
-              "odds": "1.78",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Boreham Wood Vs Carshalton",
-              "prediction": "Ov3.5",
-              "odds": "2.12",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Mexico Vs Valencia",
-              "prediction": "FT X",
-              "odds": "4.47",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Vietnam Vs India",
-              "prediction": "GG",
-              "odds": "2.22",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Aarau Vs Schalke",
-              "prediction": "FT X",
-              "odds": "3.57",
-              "results": "WIN"
-          }
-      ]
-  },
-  {
-      "date": "11th October, 2024",
-      "gamesList": [
-          {
-              "fixture": "Mali Vs Guinea Bissau",
-              "prediction": "1",
-              "odds": "1.89",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Gabon Vs Lesotho",
-              "prediction": "X",
-              "odds": "3.45",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Alanyaspor Vs Hull City",
+              "fixture": "Bochum Vs Dusseldrf",
               "prediction": "2",
-              "odds": "2.29",
+              "odds": "2.04",
               "results": "WIN"
           },
           {
-              "fixture": "Metz Vs Seraing",
-              "prediction": "1 & Ov3.5",
-              "odds": "5.25",
+              "fixture": "Cagliari Vs Fiorentina",
+              "prediction": "2",
+              "odds": "2.45",
               "results": "WIN"
           },
           {
-              "fixture": "Grazer AK Vs Voitsberg",
+              "fixture": "Breda Vs Go Ahead Eagles",
+              "prediction": "2",
+              "odds": "3.29",
+              "results": "WIN"
+          },
+          {
+              "fixture": "East Riffa Vs Malkiya",
+              "prediction": "FT X",
+              "odds": "4.25",
+              "results": "WIN"
+          },
+          {
+              "fixture": "The Strongest Vs Guabira",
               "prediction": "GG & Ov3.5",
               "odds": "7.97",
               "results": "WIN"
@@ -135,36 +71,36 @@
       ]
   },
   {
-      "date": "10th October, 2024",
+      "date": "Wednesday, 22nd May 2024",
       "gamesList": [
           {
-              "fixture": "Ecuador Vs Paraguay",
-              "prediction": "FT X",
+              "fixture": "Atalanta Vs Leverkusen",
+              "prediction": "1",
               "odds": "3.35",
               "results": "WIN"
           },
           {
-              "fixture": "Norway Vs Slovenia",
+              "fixture": "Ilves V Inter Turku",
               "prediction": "1",
-              "odds": "1.55",
+              "odds": "2.04",
               "results": "WIN"
           },
           {
-              "fixture": "Italy Vs Belgium",
-              "prediction": "GG",
-              "odds": "1.66",
+              "fixture": "Dudenhofen V Pirmasens",
+              "prediction": "GG & Ov3.5",
+              "odds": "8.66",
               "results": "WIN"
           },
           {
-              "fixture": "Finland Vs Ireland",
-              "prediction": "2 & GG",
-              "odds": "2.99",
+              "fixture": "Dreams Vs Legon Cities",
+              "prediction": "1",
+              "odds": "2.45",
               "results": "WIN"
           },
           {
-              "fixture": "Spain U 21 Vs Kazakhstan U21",
+              "fixture": "Eastern Vs HKFC",
               "prediction": "Over 4.5",
-              "odds": "3.37",
+              "odds": "4.37",
               "results": "WIN"
           }
       ]
