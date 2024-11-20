@@ -1,24 +1,14 @@
 {
-  "free_tips": [
+  "free_tips": [    
     {
-      "fixture": "Olympiacos Piraeus Vs Acf Fiorentina",
-      "prediction": "GG",
-      "date": "29/05/2024"
+      "fixture": "Urartu VS Shirak Gyumri",
+      "prediction": "1",
+      "date": "20/11/2024"
     },
     {
-      "fixture": "Al Ain Fc Vs. Al-wasl Fc",
+      "fixture": "Bjelovar VS D. Zagreb",
       "prediction": "2",
-      "date": "29/05/2024"
-    },
-    {
-      "fixture": "Kks 1925 Kalisz Vs. Ks Polonia Bytom Sa",
-      "prediction": "X",
-      "date": "29/05/2024"
-    },
-    {
-      "fixture": "Gangwon Vs. Jeonbuk Hyundai Motors Fc",
-      "prediction": "X",
-      "date": "29/05/2024"
+      "date": "20/11/2024"
     }
   ],
   "golden_draw_one": [
