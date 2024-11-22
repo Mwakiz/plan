@@ -1,28 +1,28 @@
 {
 "predictionResults": [
   {
-      "date": "Tuesday, 19th Nov 2024",
+      "date": "Thursday, 21th Nov 2024",
       "gamesList": [
           {
-              "fixture": "Montenegro VS Turkey",
+              "fixture": "Botosani VS FCSB",
               "prediction": "1",
-              "odds": "4.22",
+              "odds": "3.22",
               "results": "WIN"
           },
           {
-              "fixture": "Sweden VS Azerbaijan",
-              "prediction": "Ov4.4",
-              "odds": "3.92",
+              "fixture": "Al Urooba VS Al Ain",
+              "prediction": "Ov3.5",
+              "odds": "3.33",
               "results": "WIN"
           },
           {
-              "fixture": "Hungary VS Germany",
+              "fixture": "Landskrona VS Varnamo",
               "prediction": "FT X",
               "odds": "4.47",
               "results": "WIN"
           },
           {
-              "fixture": "Tanzania VS Guinea",
+              "fixture": "Arges VS FC Voluntari",
               "prediction": "1",
               "odds": "2.25",
               "results": "WIN"
@@ -30,69 +30,57 @@
       ]
   },
   {
-      "date": "Thursday, 23rd May 2024",
+      "date": "Wednesday, 20th Nov 2024",
       "gamesList": [
           {
-              "fixture": "Bochum Vs Dusseldrf",
+              "fixture": "MC Alger Vs Belouizdad",
               "prediction": "2",
-              "odds": "2.04",
+              "odds": "3.04",
+              "results": "WIN"
+          },          
+          {
+              "fixture": "Norwich U21 Vs Exeter U21",
+              "prediction": "2",
+              "odds": "2.29",
               "results": "WIN"
           },
           {
-              "fixture": "Cagliari Vs Fiorentina",
-              "prediction": "2",
-              "odds": "2.45",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Breda Vs Go Ahead Eagles",
-              "prediction": "2",
-              "odds": "3.29",
-              "results": "WIN"
-          },
-          {
-              "fixture": "East Riffa Vs Malkiya",
+              "fixture": "Manacor Vs Felanitx",
               "prediction": "FT X",
-              "odds": "4.25",
+              "odds": "3.25",
               "results": "WIN"
           },
           {
-              "fixture": "The Strongest Vs Guabira",
-              "prediction": "GG & Ov3.5",
-              "odds": "7.97",
+              "fixture": "Adalah Vs Najma",
+              "prediction": "GG",
+              "odds": "1.97",
               "results": "WIN"
           }
       ]
   },
   {
-      "date": "Wednesday, 22nd May 2024",
+      "date": "Tuesday, 19th Nov 2024",
       "gamesList": [
           {
-              "fixture": "Atalanta Vs Leverkusen",
-              "prediction": "1",
-              "odds": "3.35",
+              "fixture": "Bradford Vs Rotherham",
+              "prediction": "2",
+              "odds": "3.43",
               "results": "WIN"
           },
           {
-              "fixture": "Ilves V Inter Turku",
+              "fixture": "Senegal Vs Burundi",
               "prediction": "1",
               "odds": "2.04",
               "results": "WIN"
-          },
+          },          
           {
-              "fixture": "Dudenhofen V Pirmasens",
-              "prediction": "GG & Ov3.5",
-              "odds": "8.66",
-              "results": "WIN"
-          },
-          {
-              "fixture": "Dreams Vs Legon Cities",
+              "fixture": "Russia Vs Syria",
               "prediction": "1",
-              "odds": "2.45",
+              "odds": "1.98",
               "results": "WIN"
           },
           {
-              "fixture": "Eastern Vs HKFC",
+              "fixture": "UAE Vs Qatar",
               "prediction": "Over 4.5",
               "odds": "4.37",
               "results": "WIN"
