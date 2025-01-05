@@ -24,25 +24,25 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "DRAW 1",
+          "name": "1 DRAW",
           "amount": "Ksh 250",
           "id": "golden_draw_one",
           "odds": "3.12"
         },
         {
-          "name": "DRAW 2",
+          "name": "2 DRAWS ",
           "amount": "Ksh 550",
           "id": "golden_draw_two",
           "odds": "9.45"
         },
         {
-          "name": "DRAW 3",
+          "name": "3 DRAWS",
           "amount": "Ksh 1450",
           "id": "golden_draw_three",
           "odds": "21.15"
         },
         {
-          "name": "DRAW 4",
+          "name": "4 DRAWS",
           "amount": "Ksh 2000",
           "id": "golden_draw_four",
           "odds": "201.15"
@@ -55,25 +55,25 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "OPTION 1",
+          "name": "1 OPTION",
           "amount": "Ksh 150",
           "id": "sportpesa_mega_1",
           "odds": "17/17"
         },
         {
-          "name": "OPTION 2",
+          "name": "2 OPTIONS",
           "amount": "Ksh 300",
           "id": "sportpesa_mega_2",
           "odds": "17/17"
         },
         {
-          "name": "OPTION 3",
+          "name": "3 OPTIONS",
           "amount": "Ksh 500",
           "id": "sportpesa_mega_3",
           "odds": "17/17"
         },
         {
-          "name": "OPTION 4",
+          "name": "4 OPTIONS",
           "amount": "Ksh 700",
           "id": "sportpesa_mega_4",
           "odds": "17/17"
