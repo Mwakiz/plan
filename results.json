@@ -13,19 +13,19 @@
               "fixture": "Al Urooba VS Al Ain",
               "prediction": "Ov3.5",
               "odds": "3.33",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "Landskrona VS Varnamo",
               "prediction": "FT X",
               "odds": "4.47",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "Arges VS FC Voluntari",
               "prediction": "1",
               "odds": "2.25",
-              "results": "WIN"
+              "results": "1-2"
           }
       ]
   },
@@ -36,25 +36,25 @@
               "fixture": "MC Alger Vs Belouizdad",
               "prediction": "2",
               "odds": "3.04",
-              "results": "WIN"
+              "results": "1-2"
           },          
           {
               "fixture": "Norwich U21 Vs Exeter U21",
               "prediction": "2",
               "odds": "2.29",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "Manacor Vs Felanitx",
               "prediction": "FT X",
               "odds": "3.25",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "Adalah Vs Najma",
               "prediction": "GG",
               "odds": "1.97",
-              "results": "WIN"
+              "results": "1-2"
           }
       ]
   },
@@ -65,25 +65,25 @@
               "fixture": "Bradford Vs Rotherham",
               "prediction": "2",
               "odds": "3.43",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "Senegal Vs Burundi",
               "prediction": "1",
               "odds": "2.04",
-              "results": "WIN"
+              "results": "1-2"
           },          
           {
               "fixture": "Russia Vs Syria",
               "prediction": "1",
               "odds": "1.98",
-              "results": "WIN"
+              "results": "1-2"
           },
           {
               "fixture": "UAE Vs Qatar",
               "prediction": "Over 4.5",
               "odds": "4.37",
-              "results": "WIN"
+              "results": "1-2"
           }
       ]
   }
