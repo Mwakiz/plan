@@ -86,25 +86,25 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "OPTION 1",
+          "name": "1 OPTION ",
           "amount": "Ksh 150",
           "id": "sportpesa_mid_1",
           "odds": "13/13"
         },
         {
-          "name": "OPTION 2",
+          "name": "2 OPTIONS ",
           "amount": "Ksh 300",
           "id": "sportpesa_mid_2",
           "odds": "13/13"
         },
         {
-          "name": "OPTION 3",
+          "name": "3 OPTIONS ",
           "amount": "Ksh 500",
           "id": "sportpesa_mid_3",
           "odds": "13/13"
         },
         {
-          "name": "OPTION 4",
+          "name": "4 OPTIONS ",
           "amount": "Ksh 700",
           "id": "sportpesa_mid_4",
           "odds": "13/13"
@@ -117,25 +117,25 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "OPTION 1",
+          "name": "1 OPTION ",
           "amount": "Ksh 150",
           "id": "betika_1",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 2",
+          "name": "2 OPTIONS ",
           "amount": "Ksh 300",
           "id": "betika_2",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 3",
+          "name": "3 OPTIONS ",
           "amount": "Ksh 500",
           "id": "betika_3",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 4",
+          "name": "4 OPTIONS ",
           "amount": "Ksh 700",
           "id": "betika_4",
           "odds": "Bonus"
@@ -148,25 +148,25 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "OPTION 1",
+          "name": "1 OPTION ",
           "amount": "Ksh 150",
           "id": "mozzart_1",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 2",
+          "name": "2 OPTIONS ",
           "amount": "Ksh 300",
           "id": "mozzart_2",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 3",
+          "name": "3 OPTIONS ",
           "amount": "Ksh 500",
           "id": "mozzart_3",
           "odds": "Bonus"
         },
         {
-          "name": "OPTION 4",
+          "name": "4 OPTIONS ",
           "amount": "Ksh 700",
           "id": "mozzart_4",
           "odds": "Bonus"
@@ -180,19 +180,19 @@
       "ticketDate": "Wednesday, 29th May 2024",
       "productsList": [
         {
-          "name": "CS 1",
+          "name": "1 CORRECT SCORE ",
           "amount": "Ksh 350",
           "id": "correct_score_one",
           "odds": "9+"
         },
         {
-          "name": "CS 2",
+          "name": "2 CORRECT SCORES ",
           "amount": "Ksh 700",
           "id": "correct_score_two",
           "odds": "20+"
         },
         {
-          "name": "CS 3",
+          "name": "3 CORRECT SCORES ",
           "amount": "Ksh 1500",
           "id": "correct_score_three",
           "odds": "50+"
