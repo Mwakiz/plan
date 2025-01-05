@@ -40,6 +40,12 @@
           "amount": "Ksh 1450",
           "id": "golden_draw_three",
           "odds": "21.15"
+        },
+        {
+          "name": "DRAW 4",
+          "amount": "Ksh 2000",
+          "id": "golden_draw_four",
+          "odds": "201.15"
         }
       ]
     },
