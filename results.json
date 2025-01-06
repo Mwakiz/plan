@@ -84,7 +84,34 @@
               "prediction": "2",
               "odds": "2.37",
               "results": "0-1"
-          }
+          },
+         {
+      "date": "Thursday, 2nd Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Inter Milan Vs Atalanta",
+              "prediction": "1",
+              "odds": "2.65",
+              "results": "2-0"
+          },
+          {
+              "fixture": "Anorthosis Vs Pafos",
+              "prediction": "2",
+              "odds": "1.56",
+              "results": "0-2"
+          },          
+          {
+              "fixture": "ZED FC Vs Dayrout SC",
+              "prediction": "1",
+              "odds": "1.88",
+              "results": "3-1"
+          },
+          {
+              "fixture": "Gillingham Vs Bromley",
+              "prediction": "2",
+              "odds": "2.37",
+              "results": "0-3"
+          }      
       ]
   }
 ]
