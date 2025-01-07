@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Monday, 6th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Inter Milan Vs. Milan",
+              "prediction": "GG",
+              "odds": "1.98",
+              "results": "2-3"
+          },
+          {
+              "fixture": "QPR Vs Luton",
+              "prediction": "1",
+              "odds": "2.34",
+              "results": "2-1"
+          },
+          {
+              "fixture": "Gil Vicente Vs Rio Ave",
+              "prediction": "FT X",
+              "odds": "3.47",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Wehen Vs Heerenveen",
+              "prediction": "1",
+              "odds": "1.79",
+              "results": "1-0"
+          }
+      ]
+  },
+  {
       "date": "Sunday, 5th Jan 2025",
       "gamesList": [
           {
