@@ -1,6 +1,33 @@
 {
 "predictionResults": [
   {
+      "date": "Tuesday, 7th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Eastleigh Vs Oldham",
+              "prediction": "GG",
+              "odds": "1.87",
+              "results": "2-2"
+          },
+          {
+              "fixture": "Ahly Cairo Vs Smouha",
+              "prediction": "1",
+              "odds": "1.68",
+              "results": "2-0"
+          },
+          {
+              "fixture": "Apollon Limassol Vs Aris Limassol",
+              "prediction": "FT X",
+              "odds": "4.33",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Eldense Vs Valencia",
+              "prediction": "2",
+              "odds": "2.25",
+              "results": "0-2"
+          },
+  {
       "date": "Monday, 6th Jan 2025",
       "gamesList": [
           {
