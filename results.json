@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Wednesday, 8th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Sturm Graz Vs Lugano",
+              "prediction": "GG",
+              "odds": "1.78",
+              "results": "2-1"
+          },
+          {
+              "fixture": "Tottenham Vs Liverpool",
+              "prediction": "1",
+              "odds": "2.32",
+              "results": "1-0"
+          },
+          {
+              "fixture": "Nea Salamina Vs APOEL",
+              "prediction": "FT X",
+              "odds": "4.47",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Benfica Vs Braga",
+              "prediction": "1",
+              "odds": "1.45",
+              "results": "3-0"
+          }
+      ]
+  },
+  {
       "date": "Tuesday, 7th Jan 2025",
       "gamesList": [
           {
