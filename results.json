@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Thursday, 9th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Dundee Vs Rangers",
+              "prediction": "GG",
+              "odds": "1.98",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Fullham Vs Watford",
+              "prediction": "1",
+              "odds": "1.55",
+              "results": "4-1"
+          },
+          {
+              "fixture": "Ibri Club Vs Saham",
+              "prediction": "FT X",
+              "odds": "3.56",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Real Madrid Vs Mallorca",
+              "prediction": "1",
+              "odds": "1.49",
+              "results": "3-0"
+          }
+      ]
+  },
+  {
       "date": "Wednesday, 8th Jan 2025",
       "gamesList": [
           {
