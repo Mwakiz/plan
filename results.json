@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Friday, 10th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Dortmund Vs Leverkusen",
+              "prediction": "GG",
+              "odds": "1.78",
+              "results": "2-3"
+          },
+          {
+              "fixture": "Vallecano Vs Celta",
+              "prediction": "1",
+              "odds": "1.67",
+              "results": "2-1"
+          },
+          {
+              "fixture": "Lazio Vs Como",
+              "prediction": "FT X",
+              "odds": "5.56",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Wycombe Vs Portsmouth",
+              "prediction": "1",
+              "odds": "1.77",
+              "results": "2-0"
+          }
+      ]
+  },
+  {
       "date": "Thursday, 9th Jan 2025",
       "gamesList": [
           {
