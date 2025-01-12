@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Saturday, 11th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Milan Vs Cagliari",
+              "prediction": "GG",
+              "odds": "1.98",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Valladolid Vs Real Betis",
+              "prediction": "1",
+              "odds": "1.78",
+              "results": "1-0"
+          },
+          {
+              "fixture": "Udinese Vs Atalanta",
+              "prediction": "FT X",
+              "odds": "4.23",
+              "results": "0-0"
+          },
+          {
+              "fixture": "Alaves Vs Girona",
+              "prediction": "2",
+              "odds": "1.76",
+              "results": "0-1"
+          }
+      ]
+  },
+  {
       "date": "Friday, 10th Jan 2025",
       "gamesList": [
           {
