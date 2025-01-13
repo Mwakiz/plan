@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Sunday, 12th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Bologna Vs Roma",
+              "prediction": "GG",
+              "odds": "2.11",
+              "results": "2-2"
+          },
+          {
+              "fixture": "Genoa Vs Parma",
+              "prediction": "1",
+              "odds": "1.55",
+              "results": "1-0"
+          },
+          {
+              "fixture": "Cesena Vs Cittadella",
+              "prediction": "FT X",
+              "odds": "3.25",
+              "results": "0-0"
+          },
+          {
+              "fixture": "Elche Vs Zaragoza",
+              "prediction": "1",
+              "odds": "1.89",
+              "results": "1-0"
+          }
+      ]
+  },
+  {
       "date": "Saturday, 11th Jan 2025",
       "gamesList": [
           {
