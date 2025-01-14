@@ -1,6 +1,35 @@
 {
 "predictionResults": [
   {
+      "date": "Monday, 14th Jan 2025",
+      "gamesList": [
+          {
+              "fixture": "Pisa Vs Carrarese",
+              "prediction": "GG",
+              "odds": "2.33",
+              "results": "2-1"
+          },
+          {
+              "fixture": "Goztepe Vs Fenerbahce",
+              "prediction": "1",
+              "odds": "2.55",
+              "results": "5-0"
+          },
+          {
+              "fixture": "Al Hala Vs Busaiteen",
+              "prediction": "FT X",
+              "odds": "4.56",
+              "results": "1-1"
+          },
+          {
+              "fixture": "Budaiya Vs Qalali",
+              "prediction": "1",
+              "odds": "1.54",
+              "results": "4-0"
+          }
+      ]
+  },
+  {
       "date": "Sunday, 12th Jan 2025",
       "gamesList": [
           {
