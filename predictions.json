@@ -1,14 +1,14 @@
 {
   "free_tips": [    
     {
-      "fixture": "Leicester Vs QPR",
+      "fixture": "Como vs Milan",
       "prediction": "GG",
-      "date": "11/01/2025"
+      "date": "14/01/2025"
     },
     {
-      "fixture": "Helmond VS FC Emmen",
-      "prediction": "2",
-      "date": "11/01/2025"
+      "fixture": "Holstein Kiel Vs Dortmund",
+      "prediction": "GG&ov1.5",
+      "date": "14/01/2025"
     }
   ],
   "golden_draw_one": [
