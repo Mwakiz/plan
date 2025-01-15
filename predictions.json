@@ -1,14 +1,14 @@
 {
   "free_tips": [    
     {
-      "fixture": "Como vs Milan",
-      "prediction": "GG",
-      "date": "14/01/2025"
+      "fixture": "Stuttgart Vs Leipzig",
+      "prediction": "GG&ov2.5",
+      "date": "15/01/2025"
     },
     {
-      "fixture": "Holstein Kiel Vs Dortmund",
-      "prediction": "GG&ov1.5",
-      "date": "14/01/2025"
+      "fixture": "Inter Milan Vs Bologna",
+      "prediction": "1",
+      "date": "15/01/2025"
     }
   ],
   "golden_draw_one": [
