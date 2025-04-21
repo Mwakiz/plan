@@ -232,25 +232,25 @@
       "productsList": [
         {
           "name": "3+ Odds",
-          "amount": "Ksh 100",
+          "amount": "Ksh 190",
           "id": "three_plus_odds",
           "odds": "5+"
         },
         {
           "name": "6+ Odds",
-          "amount": "Ksh 160",
+          "amount": "Ksh 300",
           "id": "six_plus_odds",
           "odds": "9+"
         },
         {
           "name": "10+ Odds",
-          "amount": "Ksh 100",
+          "amount": "Ksh 700",
           "id": "nine_plus_odds",
           "odds": "15+"
         },
         {
           "name": "20+ Odds",
-          "amount": "Ksh 450",
+          "amount": "Ksh 2000",
           "id": "fifteen_plus_odds",
           "odds": "20+"
         }
