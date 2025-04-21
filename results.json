@@ -7,25 +7,25 @@
               "fixture": "AC Milan Vs Atalanta",
               "prediction": "2",
               "odds": "2.88",
-              "results": "0-1"
+              "results": "WON"
           },
           {
               "fixture": "Etienne Vs Lyon",
               "prediction": "1",
               "odds": "1.95",
-              "results": "2-1"
+              "results": "WON"
           },
           {
               "fixture": "Gral Lamadrid Vs Atlas",
               "prediction": "FT X",
               "odds": "4.89",
-              "results": "1-1"
+              "results": "WON"
           },
           {
               "fixture": "St Pauli Vs Leverkesen",
               "prediction": "GG",
               "odds": "2.11",
-              "results": "1-1"
+              "results": "WON"
           }
       ]
   },
@@ -36,25 +36,25 @@
               "fixture": "Atlas Vs Chivas",
               "prediction": "GG",
               "odds": "1.88",
-              "results": "1-1"
+              "results": "WON"
           },
           {
               "fixture": "Las Palmas Vs Atletico Madrid",
               "prediction": "1",
               "odds": "2.12",
-              "results": "1-0"
+              "results": "WON"
           },
           {
               "fixture": "Almagro Vs Racing CBA",
               "prediction": "FT X",
               "odds": "3.21",
-              "results": "1-1"
+              "results": "WON"
           },
           {
               "fixture": "Roma Vs Verona",
               "prediction": "1",
               "odds": "2.32",
-              "results": "1-0"
+              "results": "WON"
           }
       ]
   },
@@ -65,25 +65,25 @@
               "fixture": "Rennes Vs Nantes",
               "prediction": "GG",
               "odds": "2.33",
-              "results": "2-1"
+              "results": "WON"
           },
           {
               "fixture": "Bohemians Vs Cork City",
               "prediction": "1",
               "odds": "1.67",
-              "results": "1-0"
+              "results": "WON"
           },
           {
               "fixture": "Villarreal B Vs Intercity",
               "prediction": "FT X",
               "odds": "3.56",
-              "results": "0-0"
+              "results": "WON"
           },
           {
               "fixture": "Renate Vs Pergolettese",
               "prediction": "1",
               "odds": "2.02",
-              "results": "2-1"
+              "results": "WON"
           }
       ]
   },
@@ -94,25 +94,25 @@
               "fixture": "Hongg Vs Taverne",
               "prediction": "GG",
               "odds": "1.88",
-              "results": "2-1"
+              "results": "WON"
           },
           {
               "fixture": "Skelleftea Vs Lulea",
               "prediction": "2",
               "odds": "1.66",
-              "results": "1-2"
+              "results": "WON"
           },
           {
               "fixture": "Kiruna Vs Boden",
               "prediction": "FT X",
               "odds": "3.25",
-              "results": "0-0"
+              "results": "WON"
           },
           {
               "fixture": "Friska Viljor Vs Taftea",
               "prediction": "1",
               "odds": "1.99",
-              "results": "4-1"
+              "results": "WON"
           }
       ]
   },
@@ -124,25 +124,25 @@
               "fixture": "Varea Vs Tedeon",
               "prediction": "1",
               "odds": "1.59",
-              "results": "3-1"
+              "results": "WON"
           },
           {
               "fixture": "Banska Bystr Vs Ruzomberok",
               "prediction": "2",
               "odds": "1.87",
-              "results": "0-2"
+              "results": "WON"
           },          
           {
               "fixture": "Zenit Vs Rostov",
               "prediction": "1",
               "odds": "1.35",
-              "results": "2-0"
+              "results": "WON"
           },
           {
               "fixture": "Heart Of Lion Vs Medeama",
               "prediction": "1",
               "odds": "1.37",
-              "results": "1-0"
+              "results": "WON"
           }
                ]
   }
