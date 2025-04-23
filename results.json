@@ -1,6 +1,64 @@
 {
 "predictionResults": [
    {
+      "date": "Tuesday, 22nd April 2025",
+      "gamesList": [
+          {
+              "fixture": "Baniyas Vs Al Ain",
+              "prediction": "2",
+              "odds": "1.67",
+              "results": "WON"
+          },
+          {
+              "fixture": "Riffa Club Vs Manama Club",
+              "prediction": "1",
+              "odds": "1.54",
+              "results": "WON"
+          },
+          {
+              "fixture": "Damash Gilan Vs Naft Bandar Abbas",
+              "prediction": "FT X",
+              "odds": "3.89",
+              "results": "WON"
+          },
+          {
+              "fixture": "Maccabi Yavne Vs As Ashdod",
+              "prediction": "GG",
+              "odds": "1.98",
+              "results": "WON"
+          }
+      ]
+  },
+   {
+      "date": "Monday, 21st April 2025",
+      "gamesList": [
+          {
+              "fixture": "Start Vs Hodd",
+              "prediction": "2",
+              "odds": "1.78",
+              "results": "WON"
+          },
+          {
+              "fixture": "Fredrikstad Vs Sandefjord",
+              "prediction": "1",
+              "odds": "1.76",
+              "results": "WON"
+          },
+          {
+              "fixture": "Aalesund Vs Mjondalen",
+              "prediction": "FT X",
+              "odds": "3.22",
+              "results": "WON"
+          },
+          {
+              "fixture": "Egersunds Vs Skeid",
+              "prediction": "GG",
+              "odds": "1.87",
+              "results": "WON"
+          }
+      ]
+  },
+   {
       "date": "Sunday, 20th April 2025",
       "gamesList": [
           {
