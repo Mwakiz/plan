@@ -1,6 +1,35 @@
 {
 "predictionResults": [
    {
+      "date": "Wednesday, 23rd April 2025",
+      "gamesList": [
+          {
+              "fixture": "Parma - Juventus",
+              "prediction": "1",
+              "odds": "2.45",
+              "results": "WON"
+          },
+          {
+              "fixture": "Celta Vigo - Villarreal",
+              "prediction": "1",
+              "odds": "1.55",
+              "results": "WON"
+          },
+          {
+              "fixture": "Arsenal - Crystal Palace",
+              "prediction": "FT X",
+              "odds": "5.45",
+              "results": "WON"
+          },
+          {
+              "fixture": "BK Hacken - Degerfors IF",
+              "prediction": "GG",
+              "odds": "1.66",
+              "results": "WON"
+          }
+      ]
+  },
+   {
       "date": "Tuesday, 22nd April 2025",
       "gamesList": [
           {
